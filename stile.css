@@ -1,0 +1,146 @@
+body {
+
+    background-color: black;
+    background-image: url("back02.jpg");
+
+}
+
+.logo {
+
+
+    height: 80px;
+    background-color: black;
+    float: left;
+    align-items: center;
+    margin-left: 3.7%;
+    background-image: url("lu.jpg");
+
+}
+
+.logo p {
+    text-align: center;
+    color: rgb(241, 240, 240);
+    font-size: 20px;
+}
+
+.menu {
+
+
+    height: 80px;
+    background-color: black;
+    margin-bottom: 2%;
+    background-image: url("lu.jpg");
+
+}
+
+.banner {
+
+    height: 500px;
+    background-color: rgb(37, 35, 35);
+    background-image: url("lu.jpg");
+    align-items: center;
+
+}
+
+.banner img {
+
+    height: 350px;
+    padding: 0px;
+    margin-left: 25%;
+    margin-top: 5%;
+
+}
+
+.fixa {
+    height: 100px;
+    color: bisque;
+}
+
+.p1 {
+
+    height: 400px;
+    background-image: url("lu.jpg");
+    margin-top: 2%;
+    color:white;
+
+}
+
+.p2 {
+
+    height: 400px;
+    background-image: url("lu.jpg");
+    margin-top: 2%;
+    color:white;
+
+}
+
+.p3 {
+
+    height: 400px;
+    background-image: url("lu.jpg");
+    margin-top: 2%;
+    color:white;
+}
+
+.p4 {
+    height: 400px;
+    background-image: url("lu.jpg");
+    margin-top: 2%;
+    margin-bottom: 10px;
+    color:white;
+
+}
+
+.p1 img {
+    height: 90px;
+    margin-top: 2%;
+}
+
+.p2 img {
+
+    height: 90px;
+    margin-top: 2%;
+}
+
+.p3 img {
+
+    height: 90px;
+    margin-top: 2%;
+}
+
+.p4 img {
+    height: 90px;
+    margin-top: 2%;
+}
+
+.logo img {
+
+    height: 60px;
+    float: left;
+    margin-top: 4%;
+}
+
+.contender02 {
+
+    height: 450px;
+    background-color: black;
+    background-image: url("doc.png");
+
+
+}
+
+.midea2 {
+
+    margin-top: 2%;
+    height: 400px;
+    align-items: center;
+
+}
+
+.midea01 {
+    margin-top: 5%;
+    width: 20%;
+    float: left;
+    height: 100px;
+
+}
